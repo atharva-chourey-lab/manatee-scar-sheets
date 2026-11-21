@@ -1,0 +1,30 @@
+{
+  "title": "A Frozen Sketch Catalogue, Audited: Persistence of Hand-Drawn Scar Identifications in the Blue Spring Manatee Aggregation, 2013–2026",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Photo-identification of Florida manatees (Trichechus manatus latirostris) is maintained in the Manatee Individual Photo-identification System (MIPS), which ingests photographs. Alongside it, the long-running Blue Spring study maintained a parallel, hand-drawn \"Practical Scar Sheet\" catalogue — pen-and-ink sketches of each animal's scar pattern — which was frozen in April 2013 and never audited. Because the formal archive does not ingest sketches, this catalogue is the kind of stranded record that disappears without ever being tested. We transcribed the complete frozen set (210 entries, 209 with catalogue IDs), pre-registered six predictions — including the sheet's own 3–5-year and 10-year \"drop rules\" treated as falsifiable claims about re-identifiability — and joined the transcription to every public post-2013 record we could source (a published genealogy of the aggregation and five years of published site updates). The public record reaches only 21.5% of the catalogue, so the pre-registered fallback applies: we report a coverage audit and a non-representative case series. Within the joined subset (n = 45), 34 animals were publicly re-identified after 2013 with a median last record in 2025, twelve years past the freeze; known deaths account for 24.4%; scar load did not predict re-identification (HIGH 69.7% vs LOW 66.7%), and the pre-1990 cohort persisted at least as well as the 2000–2013 cohort (86.7% vs 82.4%) — the reverse of the registered prediction. Two individuals first identified in the 1970s were still being recognised in 2026. The drop rules are thus far too pessimistic for every animal the public record can see, and untested for the silent majority; resolving the latter requires the MIPS join, which we have formally prepared. The study demonstrates a general recovery method for identification catalogues stranded in non-archival media: freeze, transcribe, pre-register, and audit against whatever public ruler exists — reporting coverage failure as a result, not an embarrassment. Keywords: Florida manatee; photo-identification; scar catalogue; Blue Spring; data rescue; pre-registration; MIPS",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "manatee",
+    "photo-identification",
+    "scar catalogue",
+    "coverage audit",
+    "Blue Spring"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/manatee-scar-sheets",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
